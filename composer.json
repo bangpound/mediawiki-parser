@@ -5,9 +5,11 @@
         "symfony/console": "2.4.*@dev"
     },
     "autoload": {
-        "psr-0": { "": [
-            "src/"
-        ] }
+        "psr-0": {
+            "": [
+                "src/"
+            ]
+        }
     },
     "authors": [
         {
