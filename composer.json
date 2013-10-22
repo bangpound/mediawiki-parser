@@ -14,5 +14,8 @@
             "name": "Benjamin Doherty",
             "email": "bjd@bangpound.org"
         }
+    ],
+    "bin": [
+        "bin/command.php"
     ]
 }
