@@ -1,5 +1,7 @@
 {
     "name": "bangpound/mediawiki-parser",
+    "description": "Mostly stand-alone mediawiki parser.",
+    "license": "GPL-3.0",
     "require": {
         "mediawiki/core": "~1.21.2",
         "symfony/console": "~2.3"
