@@ -4,6 +4,7 @@ namespace Rshief\Wikimedia;
 
 use Rshief\Wikimedia\Command\ParseCommand;
 use Symfony\Component\Console\Application as BaseApplication;
+use Symfony\Component\Console\Input\InputInterface;
 
 /**
  * Class Application
