@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "90681d06cde2ffdbba9244aca8e6bbfb",
+    "hash": "ea0474bee320b42a9509447407d3ca00",
     "packages": [
         {
             "name": "mediawiki/core",
