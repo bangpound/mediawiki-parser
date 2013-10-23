@@ -2,7 +2,7 @@
     "name": "bangpound/mediawiki-parser",
     "require": {
         "mediawiki/core": "~1.21.2",
-        "symfony/console": "2.4.*@dev"
+        "symfony/console": "~2.3"
     },
     "autoload": {
         "psr-0": {
